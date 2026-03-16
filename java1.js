@@ -1,3 +1,12 @@
-var myInfo = new Array();
-var myInfo1 = Array();
-console.log(myInfo + " " + myInfo1); 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href=function.js>
+</head>
+<body>
+    <button onclick="myFunction()">Try it</button>
+</body>
+</html>
